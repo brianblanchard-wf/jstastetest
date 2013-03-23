@@ -1,6 +1,6 @@
-var boilerplateApp = angular.module('boilerplate', ['boilerplate.controllers', 'boilerplate.services', 'boilerplate.directives', 'boilerplate.routes']);
+var puttForDoughApp = angular.module('puttForDough', ['puttForDough.controllers', 'puttForDough.services', 'puttForDough.directives', 'puttForDough.routes']);
 
-boilerplateApp.config(['$httpProvider', function($httpProvider) {
+puttForDoughApp.config(['$httpProvider', function($httpProvider) {
         
     }
 ]);

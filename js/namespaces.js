@@ -1,4 +1,4 @@
-var boilerplate = {
+var puttForDough = {
     routes: {},
     controllers: {},
     directives: {},

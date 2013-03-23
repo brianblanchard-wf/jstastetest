@@ -1,2 +1,2 @@
-angular.module('boilerplate.services', [])
+angular.module('puttForDough.services', [])
     // .factory('Accounts', boilerplace.services.Accounts);

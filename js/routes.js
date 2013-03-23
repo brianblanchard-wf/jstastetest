@@ -1,4 +1,4 @@
-var app = angular.module('boilerplate.routes', ['boilerplate.services']);
+var app = angular.module('puttForDough.routes', ['puttForDough.services']);
 
 app.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider) {
 
